@@ -1,0 +1,67 @@
+.btn {
+  width: 150px;
+  height: 30px;
+
+}
+
+.t-center {
+  text-align: center;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: column;
+}
+
+.fromregister {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.inputregister {
+  margin-top: 10px;
+  border-radius: 30px;
+  height: 30px;
+  border: 2px solid #0055ff;
+  background-color: white;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  text-align: center;
+  font-size: 16px;
+  font-family: "Kanit", sans-serif;
+}
+
+input:focus {
+  border: none;
+}
+.btn_submit {
+  margin-top: 20px;
+  height: 35px;
+  border-radius: 30px;
+  border: none;
+  width: 100px;
+  background-color: #e02222;
+  color: white;
+  font-size: 16px;
+  font-family: "Kanit", sans-serif;
+}
+
+.camerafull {
+  width: 100vw;
+}
+
+.full-area {
+  width: 100vw;
+  height: 100vh;
+}
+
+.title {
+  margin-bottom: 20px;
+}
+
+.center-area-home {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}

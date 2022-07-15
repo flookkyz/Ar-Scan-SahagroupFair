@@ -1,0 +1,40 @@
+.center-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center-div-finish {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h2 {
+  width: 250px;
+  margin-top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-suscess {
+  width: 150px;
+  height: 60px;
+  background-color: #e02222;
+  border-radius: 40px;
+  color: white;
+  font-size: 16px;
+}
+
+.text-btn {
+  text-decoration: none;
+  color: white;
+}
+
+.center-area {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
